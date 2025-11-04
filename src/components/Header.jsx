@@ -1,5 +1,5 @@
 import React from 'react'
-import '../assets/style.css'
+
 
 export const Header = () => {
   return (
@@ -21,4 +21,4 @@ export const Header = () => {
   )
 }
 
-export default Header;
+export default Header

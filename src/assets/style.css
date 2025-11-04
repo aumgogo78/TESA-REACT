@@ -51,3 +51,22 @@ a {
     background-color: blueviolet;
     border: blueviolet solid 1px;
 }
+
+.footerBtn {
+    color: white;
+}
+
+.footerBtn:hover {
+    color: white;
+}
+
+.footerBtnAnime {
+    color: white;
+    padding: 0px;
+    transition: transform 0.3s ease;
+}
+
+.footerBtnAnime:hover {
+    color: white;
+    transform: scale(1.1);
+}
